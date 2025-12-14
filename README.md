@@ -123,7 +123,7 @@ streamlit run src/gesture_active_learning/ui/app.py
 - Perform one of the trained ASL signs in front of the webcam.
 - The app overlays YOLOv8 detections (bounding box + word label) and lists detected signs and confidences.
 
-## Highlights for Recruiters
+
 
 This project demonstrates:
 
