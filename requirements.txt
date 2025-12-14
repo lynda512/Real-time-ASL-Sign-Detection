@@ -1,0 +1,11 @@
+opencv-python
+torch
+torchvision
+numpy
+scikit-learn
+matplotlib
+fastapi
+uvicorn
+streamlit
+pyyaml
+python-multipart
