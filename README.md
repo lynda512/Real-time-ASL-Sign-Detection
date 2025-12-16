@@ -9,6 +9,7 @@ This project implements a **real-time American Sign Language (ASL) word detector
 - Uses **YOLO object detection** to localize the signing region and classify the signed word.
 - Provides a **Streamlit UI** for real-time detection from a webcam.
 - Includes utilities for **dataset reduction** to enable faster CPU-only experimentation.
+  ![]procjte.gif
 
 ## Repository Structure
 
